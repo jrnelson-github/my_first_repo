@@ -1,7 +1,11 @@
 # my_first_repo
+#jrnelson-github
 
 Welcome!
 
-First and second changes.
+First, second and changes.
 
-Third change!
+Fourth change!
+
+The last place I went on vacation was Jamaica.
+
